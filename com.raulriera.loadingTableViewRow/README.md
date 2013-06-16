@@ -1,4 +1,4 @@
-Usage
+Setup
 ------
 Copy the `widgets` folder in `app/widgets` folder of your project.
 And add dependencies in `config.json`.
@@ -19,6 +19,15 @@ Add dependencies of `app/config.json`
     }
 }
 ```
+
+Usage
+------
+Add the following line inside the `TableView` you wish to append the loading row
+
+```xml
+<Widget src="com.raulriera.LoadingTableViewRow" />
+```
+
 
 About
 ----------
