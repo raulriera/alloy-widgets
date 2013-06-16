@@ -1,0 +1,15 @@
+<Alloy>
+	<TableViewRow id="row">
+		<View id="revealToAction">
+			<ImageView id="actionImage" />
+		</View>
+		<View id="revealToDelete">
+			<ImageView id="deleteImage" />
+		</View>
+		<ScrollView id="scrollView">
+			<View id="overlay">
+				<Label id="title" />
+			</View>
+		</ScrollView>
+	</TableViewRow>
+</Alloy>

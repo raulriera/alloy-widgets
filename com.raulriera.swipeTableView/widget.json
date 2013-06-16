@@ -1,0 +1,13 @@
+{
+	"id": "com.raulriera.swipeTableView",
+	"name": "com.raulriera.swipeTableView",
+	"description" : "Swipe TableView similar to the one used in Clear or Mailbox",
+	"author": "Raúl Riera",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2012",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"tableview,swipe,mailbox,clear",
+	"platforms":"android,ios"
+}

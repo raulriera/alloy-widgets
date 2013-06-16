@@ -1,0 +1,51 @@
+"TableViewRow": {
+	backgroundColor: "#fff",
+	height: '60dp'
+},
+"#title": {
+    left: '10dp',
+    right: '10dp',
+    height: '24dp',
+    color: "#111",
+    font: {
+        fontSize: '18dp',
+        fontWeight: 'bold'
+    }
+},
+"#overlay": {
+	backgroundColor: "#fff"
+},
+"#scrollView": {
+	contentWidth: '321dp', // just a single "dp" more than the children width
+	contentHeight: Titanium.UI.SIZE,
+	verticalBounce: false,
+	scrollType: "horizontal"
+},
+"#revealToAction": {
+	backgroundColor: "#00ff00",
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.FILL,
+	left: 0,
+	top: 0,
+	visible: false
+},
+"#revealToDelete": {
+	backgroundColor: "#ff0000",
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.FILL,
+	right: 0,
+	top: 0,
+	visible: false
+},
+"#actionImage": {
+	left: '20dp',
+	width: '20dp',
+	height: '20dp',
+	image: "https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/MCSwipe%20Demo/MCSwipe%20Demo/Images/clock.png"
+},
+"#deleteImage": {
+	right: '20dp',
+	width: '20dp',
+	height: '20dp',
+	image: "https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/MCSwipe%20Demo/MCSwipe%20Demo/Images/cross.png"
+}
