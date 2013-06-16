@@ -79,3 +79,5 @@ About
 ----------
 Raúl Riera [@raulriera](https://twitter.com/raulriera/)
 Copyright &copy; Have fun with it :)
+
+Widget heavily inspired by [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell/)

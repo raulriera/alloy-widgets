@@ -41,11 +41,11 @@
 	left: '20dp',
 	width: '20dp',
 	height: '20dp',
-	image: "https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/MCSwipe%20Demo/MCSwipe%20Demo/Images/clock.png"
+	image: WPATH('clock.png')
 },
 "#deleteImage": {
 	right: '20dp',
 	width: '20dp',
 	height: '20dp',
-	image: "https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/MCSwipe%20Demo/MCSwipe%20Demo/Images/cross.png"
+	image: WPATH('cross.png')
 }
