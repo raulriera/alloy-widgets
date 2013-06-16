@@ -6,4 +6,10 @@
 	},
 	height: Ti.UI.SIZE,
 	width: Ti.UI.SIZE
+},
+"ActivityIndicator[platform=ios]": {
+	style: Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
+},
+"ActivityIndicator[platform=android]": {
+	style: Titanium.UI.ActivityIndicatorStyle.DARK
 }
