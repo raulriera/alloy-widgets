@@ -69,7 +69,7 @@ tableView.addEventListener("actionForSwipeTableViewRow" , function(e){
 
 Demo
 ------
-To see a demostration [click here](http://f.cl.ly/items/2j0G0B1O1k2B190Z0g22/Video.mov)
+To see a demostration [click here](http://f.cl.ly/items/3N2W180b3M1b3W1W3A3Y/swipeTableView.mov)
 
 About
 ----------
