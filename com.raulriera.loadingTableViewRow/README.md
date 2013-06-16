@@ -1,3 +1,5 @@
+![Listing](https://github.com/raulriera/alloy-widgets/raw/master/assets/LoadingTableViewRow.png)
+
 Setup
 ------
 Copy the `widgets` folder in `app/widgets` folder of your project.
