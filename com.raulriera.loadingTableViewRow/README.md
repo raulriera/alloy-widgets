@@ -1,4 +1,6 @@
+<p align="center">
 ![Listing](https://github.com/raulriera/alloy-widgets/raw/master/assets/LoadingTableViewRow.png)
+</p>
 
 Setup
 ------
