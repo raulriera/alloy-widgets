@@ -25,7 +25,7 @@ Usage
 Add the following line inside the `TableView` you wish to append the loading row
 
 ```xml
-<Widget src="com.raulriera.LoadingTableViewRow" />
+<Widget src="com.raulriera.loadingTableViewRow" />
 ```
 
 
