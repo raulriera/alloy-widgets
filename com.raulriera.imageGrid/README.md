@@ -29,7 +29,7 @@ Usage
 Add the following line where you want the grid to appear
 
 ```xml
-<Widget src="com.raulriera.imageGrid" />
+<Widget id="imageGrid" src="com.raulriera.imageGrid" />
 ```
 
 Now, init the grid with the images you wish to display, like so:
