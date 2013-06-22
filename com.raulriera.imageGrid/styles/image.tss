@@ -1,0 +1,14 @@
+"ImageView": {
+	width: '256dp',
+	height: '256dp',
+	top: '0dp', // these two values control the "gutter"
+	left: '0dp', // these two values control the "gutter"
+	backgroundColor: "#111",
+	opacity: 0
+},
+"ActivityIndicator[platform=ios]": {
+	style: Titanium.UI.iPhone.ActivityIndicatorStyle.LIGHT
+},
+"ActivityIndicator[platform=android]": {
+	style: Titanium.UI.ActivityIndicatorStyle.LIGHT
+}
