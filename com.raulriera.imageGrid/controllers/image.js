@@ -5,6 +5,7 @@ $.indicator.show();
 
 // Init the XHR module
 var XHR = require("/xhr");
+var animation = require('alloy/animation');
 
 // Apply the arguments to the image
 $.image.applyProperties({
@@ -22,8 +23,7 @@ function onImageSuccess(e){
 	$.image.image = e.data;
 	
 	// Do a "fade in" of the image
-	var animation = require('alloy/animation');
-	animation.fadeIn($.image, 500);
+	animation.popIn($.image);
 	
 	// Hide the indicator
 	$.indicator.hide();

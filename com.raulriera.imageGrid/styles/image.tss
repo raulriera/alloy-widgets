@@ -3,12 +3,11 @@
 	height: '256dp',
 	top: '0dp', // these two values control the "gutter"
 	left: '0dp', // these two values control the "gutter"
-	backgroundColor: "#111",
-	opacity: 0
+	backgroundColor: "#111"
 },
 "ActivityIndicator[platform=ios]": {
-	style: Titanium.UI.iPhone.ActivityIndicatorStyle.LIGHT
+	style: Titanium.UI.iPhone.ActivityIndicatorStyle.PLAIN
 },
 "ActivityIndicator[platform=android]": {
-	style: Titanium.UI.ActivityIndicatorStyle.LIGHT
+	style: Titanium.UI.ActivityIndicatorStyle.PLAIN
 }
