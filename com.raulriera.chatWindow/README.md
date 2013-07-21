@@ -52,7 +52,7 @@ function onTextSubmit(e){};
 function onMessageTouched(e){};
 ```
 
-You can see the actual [widget.js]("https://github.com/raulriera/alloy-widgets/blob/master/com.raulriera.chatWindow/controllers/widget.js") file to see all the exposed methods and more documentation
+You can see the actual [widget.js](https://github.com/raulriera/alloy-widgets/blob/master/com.raulriera.chatWindow/controllers/widget.js) file to see all the exposed methods and more documentation
 
 About
 ----------
