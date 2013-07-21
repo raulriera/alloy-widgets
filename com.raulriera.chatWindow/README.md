@@ -54,6 +54,8 @@ function onMessageTouched(e){};
 
 You can see the actual [widget.js](https://github.com/raulriera/alloy-widgets/blob/master/com.raulriera.chatWindow/controllers/widget.js) file to see all the exposed methods and more documentation
 
+***Please note*** that this widget also uses the [com.raulriera.loadingTableViewRow](https://github.com/raulriera/alloy-widgets/tree/master/com.raulriera.loadingTableViewRow) widget created by me as well :)
+
 About
 ----------
 Raúl Riera [@raulriera](https://twitter.com/raulriera/)
