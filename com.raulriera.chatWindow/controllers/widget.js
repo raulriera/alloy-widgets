@@ -12,7 +12,7 @@ exports.init = function(onFocus, onBlur, onSubmit, onMessageTouched) {
 
 exports.scrollToBottom = function() {
 	if ($.conversation.data[0] && $.conversation.data[0].rows){
-		$.conversation.scrollToIndex($.conversation.data[0].rows.length);
+		$.conversation.scrollToIndex($.conversation.data[0].rows.length-1);
 	}
 };
 
